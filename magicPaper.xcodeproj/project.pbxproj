@@ -13,6 +13,14 @@
 		B10FEE9A2CAD26340068D915 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = B10FEE992CAD26340068D915 /* Base */; };
 		B10FEE9C2CAD26350068D915 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B10FEE9B2CAD26350068D915 /* Assets.xcassets */; };
 		B10FEE9F2CAD26350068D915 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = B10FEE9E2CAD26350068D915 /* Base */; };
+		B17537292CAD841A00FECFEB /* ind.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B17537282CAD841A00FECFEB /* ind.mp4 */; };
+		B175372B2CAD842500FECFEB /* ai.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B175372A2CAD842500FECFEB /* ai.mp4 */; };
+		B175372D2CAD843000FECFEB /* rekha.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B175372C2CAD843000FECFEB /* rekha.mp4 */; };
+		B175372F2CAD843800FECFEB /* bof.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B175372E2CAD843800FECFEB /* bof.mp4 */; };
+		B17537312CAD844000FECFEB /* srilanka.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B17537302CAD844000FECFEB /* srilanka.mp4 */; };
+		B17537332CAD844600FECFEB /* gandhi.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B17537322CAD844600FECFEB /* gandhi.mp4 */; };
+		B17537352CAD8F9200FECFEB /* kitchenxpress.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B17537342CAD8F9200FECFEB /* kitchenxpress.mp4 */; };
+		B1D9270D2CAD48F000799054 /* nepal.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B1D9270C2CAD48F000799054 /* nepal.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +31,14 @@
 		B10FEE992CAD26340068D915 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B10FEE9B2CAD26350068D915 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B10FEE9E2CAD26350068D915 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		B17537282CAD841A00FECFEB /* ind.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = ind.mp4; sourceTree = "<group>"; };
+		B175372A2CAD842500FECFEB /* ai.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = ai.mp4; sourceTree = "<group>"; };
+		B175372C2CAD843000FECFEB /* rekha.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = rekha.mp4; sourceTree = "<group>"; };
+		B175372E2CAD843800FECFEB /* bof.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = bof.mp4; sourceTree = "<group>"; };
+		B17537302CAD844000FECFEB /* srilanka.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = srilanka.mp4; sourceTree = "<group>"; };
+		B17537322CAD844600FECFEB /* gandhi.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = gandhi.mp4; sourceTree = "<group>"; };
+		B17537342CAD8F9200FECFEB /* kitchenxpress.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = kitchenxpress.mp4; sourceTree = "<group>"; };
+		B1D9270C2CAD48F000799054 /* nepal.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = nepal.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +71,14 @@
 		B10FEE912CAD26340068D915 /* magicPaper */ = {
 			isa = PBXGroup;
 			children = (
+				B17537342CAD8F9200FECFEB /* kitchenxpress.mp4 */,
+				B17537322CAD844600FECFEB /* gandhi.mp4 */,
+				B17537302CAD844000FECFEB /* srilanka.mp4 */,
+				B175372E2CAD843800FECFEB /* bof.mp4 */,
+				B175372C2CAD843000FECFEB /* rekha.mp4 */,
+				B175372A2CAD842500FECFEB /* ai.mp4 */,
+				B17537282CAD841A00FECFEB /* ind.mp4 */,
+				B1D9270C2CAD48F000799054 /* nepal.mp4 */,
 				B10FEE922CAD26340068D915 /* AppDelegate.swift */,
 				B10FEE942CAD26340068D915 /* art.scnassets */,
 				B10FEE962CAD26340068D915 /* ViewController.swift */,
@@ -123,8 +147,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B175372F2CAD843800FECFEB /* bof.mp4 in Resources */,
+				B175372B2CAD842500FECFEB /* ai.mp4 in Resources */,
+				B17537312CAD844000FECFEB /* srilanka.mp4 in Resources */,
+				B17537352CAD8F9200FECFEB /* kitchenxpress.mp4 in Resources */,
 				B10FEE952CAD26340068D915 /* art.scnassets in Resources */,
+				B1D9270D2CAD48F000799054 /* nepal.mp4 in Resources */,
 				B10FEE9C2CAD26350068D915 /* Assets.xcassets in Resources */,
+				B17537332CAD844600FECFEB /* gandhi.mp4 in Resources */,
+				B175372D2CAD843000FECFEB /* rekha.mp4 in Resources */,
+				B17537292CAD841A00FECFEB /* ind.mp4 in Resources */,
 				B10FEE9A2CAD26340068D915 /* Base in Resources */,
 				B10FEE9F2CAD26350068D915 /* Base in Resources */,
 			);
@@ -300,6 +332,7 @@
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -330,6 +363,7 @@
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

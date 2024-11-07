@@ -1,0 +1,32 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "ai.arreferenceimage"
+    },
+    {
+      "filename" : "gandhi.arreferenceimage"
+    },
+    {
+      "filename" : "ind.arreferenceimage"
+    },
+    {
+      "filename" : "ktch.arreferenceimage"
+    },
+    {
+      "filename" : "model.arreferenceimage"
+    },
+    {
+      "filename" : "nepalrain.arreferenceimage"
+    },
+    {
+      "filename" : "rekha.arreferenceimage"
+    },
+    {
+      "filename" : "sri.arreferenceimage"
+    }
+  ]
+}
