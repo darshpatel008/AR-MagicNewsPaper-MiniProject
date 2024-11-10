@@ -13,7 +13,9 @@ Smooth Transitions: Enjoy smooth animations and transitions between augmented co
 ## *Technology Stack*
 
 Swift: The primary language for app development, ensuring optimized performance and clean code.
+
 ARKit: Powers the augmented reality features, enabling accurate image detection and video anchoring.
+
 SceneKit: Provides the 3D scene capabilities, creating a seamless blend between digital content and real-world images.
 
 
