@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/1d120ed3-1ad6-4418-81b9-d7bc7d87a76a
+
 # *Magical Newspaper* 📰✨
 
 The Magical Newspaper app is an immersive augmented reality (AR) experience that brings static images on a newspaper to life with videos. Developed using ARKit and SceneKit in Swift, this app scans designated newspaper images and dynamically overlays related video content, creating an interactive storytelling experience.
